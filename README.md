@@ -149,14 +149,6 @@ curl -X POST "http://localhost:8000/ask/json/" \
 }
 ```
 
-## 🛠️ Technology Stack
-
-- **Backend Framework**: [FastAPI](https://fastapi.tiangolo.com/) - Modern, fast web framework for building APIs
-- **Vector Database**: [Pinecone](https://www.pinecone.io/) - Managed vector database for similarity search
-- **Embeddings**: [Google Generative AI](https://cloud.google.com/ai/generative-ai) - High-quality text embeddings
-- **LLM**: [Groq](https://groq.com/) - Fast inference for language models
-- **Document Processing**: [LangChain](https://langchain.com/) - Framework for building LLM applications
-- **PDF Processing**: [PyPDF2](https://pypdf2.readthedocs.io/) - Text extraction from PDF documents
 
 ## 📁 Project Structure
 
